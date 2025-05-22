@@ -6,9 +6,9 @@ export default function Footer() {
         <footer className="mt-20 flex flex-col items-center gap-6 pb-6">
 
             <div className='flex justify-center gap-10'>
-                <a href="#"><FontAwesomeIcon icon={faFacebookF} /></a>
-                <a href="#"><FontAwesomeIcon icon={faTwitter} /></a>
-                <a href="#"><FontAwesomeIcon icon={faInstagram} /></a>
+                <a href="https://facebook.com/" aria-label="Facebook"><FontAwesomeIcon icon={faFacebookF} /></a>
+                <a href="https://x.com/" aria-label="Twitter"><FontAwesomeIcon icon={faTwitter} /></a>
+                <a href="https://www.instagram.com/" aria-label="Instagram"><FontAwesomeIcon icon={faInstagram} /></a>
             </div>
 
             <span className='text-center text-gray text-xs'>

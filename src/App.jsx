@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <main className="px-6 pt-10 flex flex-col items-center justify-center">
-        <div className="wrapper flex flex-col items-center text-center max-w-2xl">
+        <div className="flex flex-col items-center text-center max-w-2xl">
 
           <div className='flex flex-col items-center w-full'>
 
